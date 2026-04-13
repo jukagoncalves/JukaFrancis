@@ -17,7 +17,7 @@ Implementações práticas de listas, filas, pilhas e algoritmos em C.
 🔗 [Acessar repositório](https://github.com/jukagoncalves/estrutura-de-dados)
 
 ### Estrutura de Dados ||
-Implementações práticas de tabelas hashs em Python.
+Implementações práticas de tabelas hashs em Python.  
 🔗 [Acessar repositório](https://github.com/jukagoncalves/estrutura-de-dados-2)
 
 ### ⚙️ Sistemas Operacionais
@@ -25,7 +25,7 @@ Aplicações em Java utilizando **multithreading** e conceitos de concorrência 
 🔗 [Acessar repositório](https://github.com/jukagoncalves/sistemas-operacionais)
 
 ### Análise de dados
-Projeto envolvendo análise de dados em Python.
+Projeto envolvendo análise de dados em Python.  
 🔗 [Acessar repositório](https://github.com/jukagoncalves/Analise-de-dados)
 
 ---
