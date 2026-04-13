@@ -1,24 +1,32 @@
-# 👋 Olá, eu sou Juka Francis Pereira Gonçalves!
+#  Olá, eu sou Juka Francis Pereira Gonçalves!
 
 🎓 Estudante de Engenhaira da Software na Universidade Federal de Lavras (UFLA)  
 💡 Interessado em desenvolvimento de software, cybersecurity, IA, inovação e tecnologias emergentes  
-💻 Atualmente desenvolvendo projetos em **C**, **Python** e **Java**, com foco em estruturas de dados e sistemas operacionais.
+💻 Atualmente desenvolvendo projetos em **C**, **Python** e **Java**, com foco em estruturas de dados e Programação Orientada a Objetos.
 
 ---
 
-## 🚀 Projetos Acadêmicos
+## ⚙️ Projetos Acadêmicos
 
-### 💾 Programação em C
+###  Programação em C
 Repositório com exercícios e desafios resolvidos em linguagem C, abordando lógica, funções e manipulação de dados.  
 🔗 [Acessar repositório](https://github.com/jukagoncalves/programacao-em-c)
 
-### 🌲 Estrutura de Dados
-Implementações práticas de listas, filas, pilhas e árvores em C.  
+###  Estrutura de Dados |
+Implementações práticas de listas, filas, pilhas e algoritmos em C.  
 🔗 [Acessar repositório](https://github.com/jukagoncalves/estrutura-de-dados)
+
+### Estrutura de Dados ||
+Implementações práticas de tabelas hashs em Python.
+🔗 [Acessar repositório](https://github.com/jukagoncalves/estrutura-de-dados-2)
 
 ### ⚙️ Sistemas Operacionais
 Aplicações em Java utilizando **multithreading** e conceitos de concorrência e sincronização.  
 🔗 [Acessar repositório](https://github.com/jukagoncalves/sistemas-operacionais)
+
+### Análise de dados
+Projeto envolvendo análise de dados em Python.
+🔗 [Acessar repositório](https://github.com/jukagoncalves/Analise-de-dados)
 
 ---
 
