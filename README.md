@@ -12,6 +12,10 @@
 Repositório com exercícios e desafios resolvidos em linguagem C, abordando lógica, funções e manipulação de dados.  
 🔗 [Acessar repositório](https://github.com/jukagoncalves/programacao-em-c)
 
+###  Programação Orientada a Objetos
+Repositório com Projetos desenvolvidos em Java abordando encapsulamento, herança, polimorfismo, interfaces e boas práticas de POO.  
+🔗 [Acessar repositório](https://github.com/jukagoncalves/programacao-orientada-objetos)
+
 ###  Estrutura de Dados |
 Implementações práticas de listas, filas, pilhas e algoritmos em C.  
 🔗 [Acessar repositório](https://github.com/jukagoncalves/estrutura-de-dados)
